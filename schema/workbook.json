@@ -982,7 +982,7 @@
                     ]
                 },
                 "value": {
-                    "type": "string",
+                    "type": ["string", "null"],
                     "description": "the value of the condition"
                 }
             }
